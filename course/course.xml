@@ -1,0 +1,15 @@
+<course display_name="Molecular Absorption Spectroscopy">
+  <chapter url_name="Introduction"/>
+  <chapter url_name="_Familiarization_with_the_UV-Visible_Absorption_Spectroscopy__"/>
+  <chapter url_name="_Solvent_Effects_on_the_UV-visible_Absorption_Spectra__"/>
+  <chapter url_name="__Effects_of_sample_path_length_Dependence_of_Absorbance_-_Lambert_Law_"/>
+  <chapter url_name="___Effects_of_sample_concentration_Dependence_of_Absorban_-_Beer_Law___"/>
+  <chapter url_name="___Determination_of_the_Molar_Absorptivity_of_a_Light_Absorbing_Molecule__"/>
+  <chapter url_name="_Verification_of_Beer-Lambert_Law_"/>
+  <chapter url_name="___Determination_of_unknown_concentration_of_an_analyte_by_using_the_Beer-Lambert_Law___"/>
+  <chapter url_name="__Simultaneous_estimation_method_for_multicomponent_samples_-_Principle_of_additivity_of_absorbance__"/>
+  <chapter url_name="_pH_effects_on_absorption_spectra_-_pKa_determination_by_spectrophotometric_method_"/>
+  <chapter url_name="__Study_of_kinetics_of_a_reaction_by_using_spectrophotometric_method_"/>
+  <chapter url_name="9c27e9fab8184efcaefee5c1525b2bbf"/>
+  <wiki slug="IIIT-Hyderabad.CCNSB03.Anytime"/>
+</course>

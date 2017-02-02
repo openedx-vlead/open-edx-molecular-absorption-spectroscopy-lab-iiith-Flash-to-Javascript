@@ -1,0 +1,170 @@
+{
+    "Picture1.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CCNSB03", 
+            "name": "Picture1.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Picture1.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+CCNSB03+Anytime+type@asset+block@Picture1.jpg", 
+        "import_path": "Picture1.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CCNSB03", 
+            "thumbnail", 
+            "Picture1.jpg", 
+            null
+        ]
+    }, 
+    "Picture2.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CCNSB03", 
+            "name": "Picture2.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Picture2.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+CCNSB03+Anytime+type@asset+block@Picture2.jpg", 
+        "import_path": "Picture2.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CCNSB03", 
+            "thumbnail", 
+            "Picture2.jpg", 
+            null
+        ]
+    }, 
+    "Picture3.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CCNSB03", 
+            "name": "Picture3.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Picture3.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+CCNSB03+Anytime+type@asset+block@Picture3.jpg", 
+        "import_path": "Picture3.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CCNSB03", 
+            "thumbnail", 
+            "Picture3.jpg", 
+            null
+        ]
+    }, 
+    "Picture4.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CCNSB03", 
+            "name": "Picture4.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Picture4.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+CCNSB03+Anytime+type@asset+block@Picture4.jpg", 
+        "import_path": "Picture4.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CCNSB03", 
+            "thumbnail", 
+            "Picture4.jpg", 
+            null
+        ]
+    }, 
+    "Picture6.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CCNSB03", 
+            "name": "Picture6.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Picture6.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+CCNSB03+Anytime+type@asset+block@Picture6.jpg", 
+        "import_path": "Picture6.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CCNSB03", 
+            "thumbnail", 
+            "Picture6.jpg", 
+            null
+        ]
+    }, 
+    "Picture7.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CCNSB03", 
+            "name": "Picture7.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Picture7.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+CCNSB03+Anytime+type@asset+block@Picture7.jpg", 
+        "import_path": "Picture7.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CCNSB03", 
+            "thumbnail", 
+            "Picture7.jpg", 
+            null
+        ]
+    }, 
+    "molecular-absorption-spectroscopy.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CCNSB03", 
+            "name": "molecular-absorption-spectroscopy.png", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "molecular-absorption-spectroscopy.png", 
+        "filename": "asset-v1:IIIT-Hyderabad+CCNSB03+Anytime+type@asset+block@molecular-absorption-spectroscopy.png", 
+        "import_path": "molecular-absorption-spectroscopy.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CCNSB03", 
+            "thumbnail", 
+            "molecular-absorption-spectroscopy-png.jpg", 
+            null
+        ]
+    }
+}
