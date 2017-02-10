@@ -1,4 +1,4 @@
-<course display_name="Molecular Absorption Spectroscopy">
+<course course_image="Molecular Absorption Spectroscopy.png" display_name="Molecular Absorption Spectroscopy" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-30T00:00:00+00:00&quot;">
   <chapter url_name="Introduction"/>
   <chapter url_name="_Familiarization_with_the_UV-Visible_Absorption_Spectroscopy__"/>
   <chapter url_name="_Solvent_Effects_on_the_UV-visible_Absorption_Spectra__"/>
