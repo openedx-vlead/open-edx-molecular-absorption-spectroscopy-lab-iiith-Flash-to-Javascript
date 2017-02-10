@@ -1,5 +1,6 @@
 {
     "course/course": {
+        "advertised_start": "Anytime", 
         "course_image": "Molecular Absorption Spectroscopy.png", 
         "discussion_topics": {
             "General": {
